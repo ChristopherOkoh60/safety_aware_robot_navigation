@@ -49,8 +49,8 @@ DQN Training Network Architecture: <br/>
 - <b>Evaluate the testing outcomes</b>
 
 <p align="center">
-DQN Training Network Architecture: <br/>
-<img src="https://i.postimg.cc/TY2Y6qSN/Picture1.png" height="60%" width="80%" alt="Disk Sanitization Steps"/>
+Results - (a) Action-Distribution, (b) Sensor Over Time, (c) Robot Motion Trajectory: <br/>
+<img src="https://i.postimg.cc/Hs2GTq54/Screenshot-2026-05-05-022659.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--

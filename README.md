@@ -8,7 +8,7 @@ This project focuses on the collision-avoidance capability of an autonomous mobi
 
 <p align="center">
 Matrix Formula All Code Buggy Robot: <br/>
-<img src="https://i.postimg.cc/QMz0Xb06/Buggy-Robot.webp" height="40%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/QMz0Xb06/Buggy-Robot.webp" height="30%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
  
 
@@ -30,7 +30,7 @@ Matrix Formula All Code Buggy Robot: <br/>
 
 <p align="center">
 Buggy Robot with Obstacles on Navigation Pathway: <br/>
-<img src="https://i.postimg.cc/QdWqfs0v/20260416-220249.jpg" height="60%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/QdWqfs0v/20260416-220249.jpg" height="50%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 
 <b>Step 2</b>
@@ -40,7 +40,7 @@ Buggy Robot with Obstacles on Navigation Pathway: <br/>
 
 <p align="center">
 DQN Training Network Architecture: <br/>
-<img src="https://i.postimg.cc/TY2Y6qSN/Picture1.png" height="60%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/TY2Y6qSN/Picture1.png" height="50%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 
 <b>Step 3</b>
@@ -50,7 +50,7 @@ DQN Training Network Architecture: <br/>
 
 <p align="center">
 Results - (a) Action-Distribution, (b) Sensor Over Time, (c) Robot Motion Trajectory: <br/>
-<img src="https://i.postimg.cc/Hs2GTq54/Screenshot-2026-05-05-022659.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/Hs2GTq54/Screenshot-2026-05-05-022659.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--

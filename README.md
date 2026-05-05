@@ -6,7 +6,11 @@ This project focuses on the collision-avoidance capability of an autonomous mobi
 
 <h2>Hardware</h2>
 
-- <b>Matrix Formula All Code Buggy Robot</b> 
+<p align="center">
+Matrix Formula All Code Buggy Robot: <br/>
+<img src="https://i.postimg.cc/QMz0Xb06/Buggy-Robot.webp" height="40%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+ 
 
 <h2>Languages and Utilities Used</h2>
 
@@ -25,7 +29,7 @@ This project focuses on the collision-avoidance capability of an autonomous mobi
 - <b>Create rewards and penalties for navigation pathway and sensor levels</b>
 
 <p align="center">
-DQN Training Network Architecture: <br/>
+Buggy Robot with Obstacles on Navigation Pathway: <br/>
 <img src="https://i.postimg.cc/QdWqfs0v/20260416-220249.jpg" height="60%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 
@@ -35,11 +39,19 @@ DQN Training Network Architecture: <br/>
 - <b>Ensure the reward functions are continuously tuned to improve stability and convergence</b>
 
 <p align="center">
-Buggy Robot with Obstacles on Navigation Pathway: <br/>
+DQN Training Network Architecture: <br/>
 <img src="https://i.postimg.cc/TY2Y6qSN/Picture1.png" height="60%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<b>Step 3</b>
 
+- <b>Perform testing to ensure that the robot learned the trajectory pathway and obstacle detection</b>
+- <b>Evaluate the testing outcomes</b>
+
+<p align="center">
+DQN Training Network Architecture: <br/>
+<img src="https://i.postimg.cc/TY2Y6qSN/Picture1.png" height="60%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <!--
  ```diff

@@ -53,6 +53,10 @@ Results - (a) Action-Distribution, (b) Sensor Over Time, (c) Robot Motion Trajec
 <img src="https://i.postimg.cc/Hs2GTq54/Screenshot-2026-05-05-022659.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <br />
 
+<b>Conclusion</b>
+
+<b>This research project has applied the DQN model for buggy robot collision avoidance during autonomous navigation in a dynamic space. The robot effectively learned to move, avoid obstacles, and attempt the provided structured pathway based on sensor input and reward design. The trained outcome revealed that DQN’s efficiency is largely dependent on data quality, reward tuning, and system calibration.</b>
+
 <!--
  ```diff
 - text in red

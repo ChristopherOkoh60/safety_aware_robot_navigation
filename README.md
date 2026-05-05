@@ -1,7 +1,7 @@
 <h1>Safety-Aware Robot Navigation using RL</h1>
 
 <h2>Description</h2>
-This project focuses on the collision-avoidance capability of an autonomous mobile robot in a dynamic environment using the Reinforcement Learning (RL) technique. This research experiment examines the extent to which safety is ensured in an environment where an unmanned ground robot is deployed alongside humans and other mobile or fixed equipment
+This project focuses on the collision-avoidance capability of an autonomous mobile robot in a dynamic environment using the Reinforcement Learning (RL) technique, specifically the Deep Q-Network (DQN) model. This research experiment examines the extent to which safety is ensured in an environment where an unmanned ground robot is deployed alongside humans and other mobile or fixed equipment
 <br />
 
 <h2>Hardware</h2>
@@ -18,7 +18,11 @@ This project focuses on the collision-avoidance capability of an autonomous mobi
 
 - <b>Visual Studio</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
+<b>Step 1</b>
+
+- <b>Create a rule-based navigation program</b>
+- <b>Create rewards and penalties for navigation pathway and sensor levels</b>
 
 <p align="center">
 Launch the utility: <br/>
